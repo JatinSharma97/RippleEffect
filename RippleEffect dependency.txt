@@ -6,3 +6,8 @@
     implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
     implementation 'com.mikhaellopez:circularimageview:3.0.2'
     implementation 'mx.com.pegasus:ripple-circle-button:1.1.8'
+    
+    repositries
+      maven {
+        url 'https://dl.bintray.com/pegasuscontrol/RippleCircleButton/'
+    }
